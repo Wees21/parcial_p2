@@ -1,0 +1,15 @@
+body {   
+    background-color: rgb(89, 47, 213); background-image: ;
+} 
+ h1 {   
+    color: rgb(255, 255, 255);  font-style: italic; font-family: monospace; text-align: center; font-size: 100px; border-style: dashed; border-color: aliceblue;
+}  
+h2 {   
+   color: rgb(255, 255, 255);  font-style: italic; font-family: monospace; text-align: justify; font-size: 20px; 
+}   
+ p {
+    color: rgb(255, 255, 255);  font-style:normal; font-family:serif; text-align: center; font-size: 20px;  align-items: center;
+}    
+ h3 {
+    color: rgb(255, 255, 255);  font-style:normal; font-family:serif; text-align:center; font-size: 50px;  align-items: center;border-style:dashed;border-color: aliceblue;border-top: 10cap; 
+}    
